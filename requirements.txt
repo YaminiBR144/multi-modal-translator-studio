@@ -1,7 +1,7 @@
-streamlit
-opencv-python
-pytesseract
+streamlit==1.32.0
+opencv-python-headless==4.9.0.80
+pytesseract==0.3.10
 googletrans==4.0.0-rc1
-SpeechRecognition
-gTTS
-Pillow
+SpeechRecognition==3.10.0
+gTTS==2.5.1
+Pillow==10.2.0
